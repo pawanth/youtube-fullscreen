@@ -1,2 +1,4 @@
 # youtube-fullscreen
-Chrome Extension to View youtube videos in full browser window
+Chrome extention to view youtube videos in full screen mode but keeping chrom tabs visible.  
+i.e. It gives better viewing experience over theatre mode and full screen mode.
+
